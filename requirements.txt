@@ -1,0 +1,12 @@
+crewai[tools]
+pandas
+matplotlib
+seaborn
+python-dotenv
+colorama
+reportlab
+pydantic
+numpy
+langchain-google-genai
+scikit-learn
+requests 
